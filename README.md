@@ -2,6 +2,8 @@
 
 Java implementation of various ECC algorithm
 
+<img src="https://raw.githubusercontent.com/GaspareG/ECC/master/img/img3.png" width="425"/> <img src="https://raw.githubusercontent.com/GaspareG/ECC/master/img/img6.png" width="425"/>
+
 **Available source:**
 
 Curve Definition
